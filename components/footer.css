@@ -1,0 +1,4 @@
+input[type="text"]::placeholder {
+    color: #2203E4;
+    opacity: 1;
+}
