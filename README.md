@@ -1,3 +1,3 @@
 # React + Vite
 
-Simple Landing Page 
+Landing Page using Reactjs
